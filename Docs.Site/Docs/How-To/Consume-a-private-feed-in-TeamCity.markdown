@@ -8,9 +8,10 @@ TeamCity 8 and 9 provide a build feature which enables you to consume packages f
 
 When editing the build configuration, you can add the NuGet Feed Credentials build feature from the build steps administration. In the dialog that is opened, the feed URL should be specified as well as credentials to connect to the feed.
 
-![TeamCity NuGet Feed Credentialsl](Images/teamcity-private-feed.png)
+![TeamCity NuGet Feed M s credentialsl](Images/teamcity-private-feed.png)
 
-## TeamCity 7
+## Team-Cit
+y 7
 
 In older versions of TeamCity, two additional buildsteps can be added. One right before consuming the feed, one right after.
 
